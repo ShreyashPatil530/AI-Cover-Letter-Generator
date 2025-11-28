@@ -251,17 +251,6 @@ A: Currently PDF and DOCX. Plain text support coming soon.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2025 Shreyash Patil
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
 
 ---
 
@@ -270,8 +259,8 @@ copies of the Software...
 **Shreyash Patil**
 
 - GitHub: [@ShreyashPatil530](https://github.com/ShreyashPatil530)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shreyash-patil-ba921737b/)
+- Email: shreyashpatil530@gmail.com
 
 ---
 
